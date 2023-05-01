@@ -1,0 +1,112 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body, html{
+    background-color: black;
+    
+
+}
+nav li{
+    display: inline;
+    margin: 30px;
+    list-style-type: none;
+    width: 100%;
+    padding: 20px;
+    
+    
+}
+nav {
+    color: white;
+    background-color:black;
+    
+    
+}
+nav a{
+    text-decoration: none;
+} 
+nav a:hover{
+    color: white;
+}
+.hero-image{
+    background-image: url("../images/tree.jpg") ;
+    height: 40vh;
+    background-size:cover;
+    background-position:absolute;
+    top: -200x;
+    background-position-y: -375px;
+}
+.hero-text{
+    
+}
+
+.article-one{
+    color: white;
+    float: right;
+    width: 65%;
+    height: 100%;
+    padding: 20px;
+
+    
+}
+.side-article{
+    background-color: rgb(145, 119, 137);
+    
+    color: white;
+     border-radius:5px ;
+     margin: 20px;
+    width:20%;
+    height: 100%;
+    padding: 20px;
+    
+
+}
+ul li{
+    list-style-type: none;
+}
+.article-four{
+    
+    width: 20%;
+    color: white;
+    background-color: rgb(145, 119, 137);
+    border-radius: 5px;
+    margin:20px;
+    padding: 20px;
+    text-align: center;
+
+    
+}
+.image{
+    width:100px ;
+    border-radius:50%;
+    border:solid;
+    border-color:rgb(189, 179, 179) ;
+    
+}
+.contact-me{
+    color: white;
+    background-color: rgb(145, 119, 137);
+    width: 20%;
+    margin: 20px;
+    padding: 20px;
+    height: 100%;
+    text-align: center;
+
+
+}
+
+
+footer{
+    width: 100%;
+    background-color: black;
+    color: white;
+    margin-top: 0;
+    height: 5vh;
+}
+video{
+    width: 400px;
+}
+
+    
